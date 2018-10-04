@@ -47,7 +47,7 @@ public class SynthesizerActivity extends AppCompatActivity implements View.OnCli
 
     private Button buttonScale;
     private SoundPool soundPool;
-    private int noteA;0
+    private int noteA;
     private int noteBb;
     private int noteB;
     private int noteC;
@@ -327,29 +327,29 @@ public class SynthesizerActivity extends AppCompatActivity implements View.OnCli
         notes.add(new Note(noteGs,WHOLE_NOTE));
         notes.add(new Note(noteBbh,WHOLE_NOTE));
 
-        notes.add(new Note(noteDs,WHOLE_NOTE));
-        notes.add(new Note(noteF,WHOLE_NOTE));
-        notes.add(new Note(noteDs,WHOLE_NOTE));
-        notes.add(new Note(noteGs,WHOLE_NOTE));
-        notes.add(new Note(noteGs,WHOLE_NOTE));
-        notes.add(new Note(noteDs,WHOLE_NOTE));
-        notes.add(new Note(noteGs,WHOLE_NOTE));
-        notes.add(new Note(noteGs,WHOLE_NOTE));
-        notes.add(new Note(noteGs,WHOLE_NOTE));
-        notes.add(new Note(noteGs,WHOLE_NOTE));
-        notes.add(new Note(noteGs,WHOLE_NOTE));
-        notes.add(new Note(noteGs,WHOLE_NOTE));
-        notes.add(new Note(noteDs,WHOLE_NOTE));
-        notes.add(new Note(noteDs,WHOLE_NOTE));
-        notes.add(new Note(noteGs,WHOLE_NOTE));
-        notes.add(new Note(noteF,WHOLE_NOTE));
-        notes.add(new Note(noteF,WHOLE_NOTE));
-        notes.add(new Note(noteDs,WHOLE_NOTE));
-        notes.add(new Note(noteF,WHOLE_NOTE));
-        notes.add(new Note(noteDs,WHOLE_NOTE));
-        notes.add(new Note(noteA,WHOLE_NOTE));
-        notes.add(new Note(noteA,WHOLE_NOTE));
-        notes.add(new Note(noteA,WHOLE_NOTE));
+//        notes.add(new Note(noteDs,WHOLE_NOTE));
+//        notes.add(new Note(noteF,WHOLE_NOTE));
+//        notes.add(new Note(noteDs,WHOLE_NOTE));
+//        notes.add(new Note(noteGs,WHOLE_NOTE));
+//        notes.add(new Note(noteGs,WHOLE_NOTE));
+//        notes.add(new Note(noteDs,WHOLE_NOTE));
+//        notes.add(new Note(noteGs,WHOLE_NOTE));
+//        notes.add(new Note(noteGs,WHOLE_NOTE));
+//        notes.add(new Note(noteGs,WHOLE_NOTE));
+//        notes.add(new Note(noteGs,WHOLE_NOTE));
+//        notes.add(new Note(noteGs,WHOLE_NOTE));
+//        notes.add(new Note(noteGs,WHOLE_NOTE));
+//        notes.add(new Note(noteDs,WHOLE_NOTE));
+//        notes.add(new Note(noteDs,WHOLE_NOTE));
+//        notes.add(new Note(noteGs,WHOLE_NOTE));
+//        notes.add(new Note(noteF,WHOLE_NOTE));
+//        notes.add(new Note(noteF,WHOLE_NOTE));
+//        notes.add(new Note(noteDs,WHOLE_NOTE));
+//        notes.add(new Note(noteF,WHOLE_NOTE));
+//        notes.add(new Note(noteDs,WHOLE_NOTE));
+//        notes.add(new Note(noteA,WHOLE_NOTE));
+//        notes.add(new Note(noteA,WHOLE_NOTE));
+//        notes.add(new Note(noteA,WHOLE_NOTE));
 
 
 
